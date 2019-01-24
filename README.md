@@ -15,7 +15,8 @@ This Project only code about usability of
 * [Retrofit](https://github.com/sushildlh/Modules/wiki/Retrofit)
 * [Permission](https://github.com/sushildlh/Modules/wiki/Permission)
 * [NestedScrollView With RecycleView Problem](https://github.com/sushildlh/Modules/wiki/NestedScrollView-With-RecycleView-Problem)
-*[Underline TextView](https://github.com/sushildlh/Modules/wiki/Underline-TextView)
+* [Underline TextView](https://github.com/sushildlh/Modules/wiki/Underline-TextView)
+* [Upload File Using Retrofit](https://github.com/sushildlh/Modules/wiki/Upload-File-Using-Retrofit)
 
 
 For more information, please go to WIKI tab.
