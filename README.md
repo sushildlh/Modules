@@ -13,6 +13,7 @@ This Project only code about usability of
 * [MySharePrefernce](https://github.com/sushildlh/Modules/wiki/MySharePrefernce)
 * [Password Hide and Show](https://github.com/sushildlh/Modules/wiki/Password-Hide-and-Show)
 * [Retrofit](https://github.com/sushildlh/Modules/wiki/Retrofit)
+* [Permission](https://github.com/sushildlh/Modules/wiki/Permission)
 
 
 For more information, please go to WIKI tab.
