@@ -14,6 +14,8 @@ This Project only code about usability of
 * [Password Hide and Show](https://github.com/sushildlh/Modules/wiki/Password-Hide-and-Show)
 * [Retrofit](https://github.com/sushildlh/Modules/wiki/Retrofit)
 * [Permission](https://github.com/sushildlh/Modules/wiki/Permission)
+* [NestedScrollView With RecycleView Problem](https://github.com/sushildlh/Modules/wiki/NestedScrollView-With-RecycleView-Problem)
+*[Underline TextView](https://github.com/sushildlh/Modules/wiki/Underline-TextView)
 
 
 For more information, please go to WIKI tab.
