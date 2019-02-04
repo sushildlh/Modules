@@ -21,5 +21,8 @@ This Project only code about usability of
 * [Dimensions](https://github.com/sushildlh/Modules/wiki/Dimensions)
 * [Date Wise Images](https://github.com/sushildlh/Modules/wiki/Date-Wise-Images)
 * [ScrollView with Recycle View](https://github.com/sushildlh/Modules/wiki/ScrollView-with-Recycle-View)
+* [Create Libarary Using Jitpack.i0](https://medium.com/@anujguptawork/how-to-create-your-own-android-library-and-publish-it-750e0f7481bf)
 
 For more information, please go to WIKI tab.
+
+
