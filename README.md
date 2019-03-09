@@ -5,18 +5,18 @@ I will come with specific libarary which will useful for developers.
 
 Best Video for android Dagger-> Coding In Flow
 
-Dagger → dependency injection
+***Dagger*** → dependency injection
 
-Retrofit → used to make API call
+***Retrofit*** → used to make API call
 
-RxJava → handles stream returned from API call
+***RxJava*** → handles stream returned from API call
 
-Lambdas → not required, but nice for readability of code, especially with Observables and Click Listeners
+***Lambdas*** → not required, but nice for readability of code, especially with Observables and Click Listeners
 
-Glide → image rendering
+***Glide*** → image rendering
 
-RecyclerView → displaying feeds of data
+***RecyclerView*** → displaying feeds of data
 
-Appcompat → Android UI components
+***Appcompat*** → Android UI components
 
 
